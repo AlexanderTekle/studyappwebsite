@@ -13,7 +13,7 @@ body
 {
     width:60%;
     margin:auto;
-    height:800px;
+    height:700px;
     margin-top:40px;
     border:8px solid #fff;
 
@@ -24,4 +24,9 @@ body
 {
     margin-left:50px;
     margin-right:50px;
+}
+
+.formtitle
+{
+    text-align:center;
 }
